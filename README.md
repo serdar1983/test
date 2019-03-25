@@ -21,6 +21,14 @@ VSCode üzerinde yapabilmek için ilgili dosya ismi üzerinde yer alan + işaret
 
 - **Yeni bir dal** oluşturmak için sol alt köşede mevcut dalın üzerine tıklayıp Komut Paletinden ; Create new branch  sekmesine tıklanılır ardından açık dallar listelenir.From yazısı gelir.Yeni dalın hangi daldan türetileceği seçilir.
 
+- **Git History** Bu eklenti ile yapılan işlemleri ,dalları listeleyebilir üzerinde değişiklik yapabilirsin.
+   - Eski dosyaları gözlemleyebilir, yenileriyle karşılaştırabilirsin (dosya ismine tıklayınız.)
+   - Eski dosyadan yeni bir dal açabilirsin (Sah hizadaki düğüme tıklayınız.)
+   - İşlem zamanlamasını tahlil edebilir,Özel bir dal üzerinde yapılan değişikliklere bakabilirsin.
+   - Dosya değişiklerini geri silebilirsiniz.
+   
+- **Etiket:** git tag -a v1.4 -m 'sürümüm 1.4'
+- **Yardım:** git help komut_adi
 
 ### Projenin ilk cmd komutları
 - İlk komutlar kendimizi sisteme tanıtmak içindir.<br/>
