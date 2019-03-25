@@ -10,5 +10,6 @@ VsCode ile repo bağlantılarını demek için yapıldı.
  *git clone << repo adresi >>*
  
  `KOD`
+[Readme yazım klavuzu](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
   
   
