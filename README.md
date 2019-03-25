@@ -5,7 +5,7 @@ VsCode ile repo bağlantılarını demek için yapıldı.
 
 - "+" işaretine bastığımızda 
 
-##Projenin ilk cmd komutları
+## Projenin ilk cmd komutları
 - İlk komutlar kendimizi sisteme tanıtmak içindir.<br/>
 
 *git config --global user.name "talimgah" <br/>*
