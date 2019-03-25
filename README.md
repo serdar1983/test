@@ -6,7 +6,9 @@ VsCode ile repo bağlantılarını demek için yapıldı.
 *git config --global user.name "talimgah" <br/>*
 *git config --global user.email eposta@adresiniz.com*
   
-- Repo clonlamak:<br/>
- *git clone <<git adresi>>
+- Repo clonlamak: <br/>
+ *git clone << repo adresi >>*
+ 
+ `KOD`
   
   
