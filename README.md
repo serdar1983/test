@@ -14,6 +14,12 @@ VSCode üzerinde yapabilmek için ilgili dosya ismi üzerinde yer alan + işaret
 
 - Commit sonrası dosyalarımızı karşı tarafa yüklemek için ... işaretine basıp Push seçeneğini seçmeliyiz
 
+- Sol alt köşede mevcut dalın üzerine tıklayarak dallar arası geçiş yapılabilir.
+- Yanında Senkronizasyon sekmesi var .Ek olarak ... işaretinden Snyc ile repo ve bilgisayar arasında bilgi transferi sağlanılabilir.
+
+- Yeni bir dal oluşturmak için sol alt köşede mevcut dalın üzerine tıklayıp Komut Paletinden ; Create new branch  sekmesine tıklanılır.
+ardından açık dallar listelenir.From yazısı gelir.Yeni dalın hangi daldan türetileceği seçilir.
+
 
 ### Projenin ilk cmd komutları
 - İlk komutlar kendimizi sisteme tanıtmak içindir.<br/>
