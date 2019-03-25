@@ -1,2 +1,2 @@
-# test
-test - Deneme işlemleri
+# Deneme
+VsCode ile repo bağlantılarını demek için yapıldı.
