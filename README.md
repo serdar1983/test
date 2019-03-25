@@ -12,7 +12,7 @@ VSCode üzerinde yapabilmek için ilgili dosya ismi üzerinde yer alan + işaret
 
 - Commit: İlgili dosyalardaki değişiklikleri kabul ettikten sonra yorum girerek commit etmemiz gerekmektedir.Tik işareti ile yapabilirsin.
 
-- Commit sonrası dosyalarımızı karşı tarafa yüklemek için Tik işaretine basıp Push seçeneğini seçmeliyiz
+- Commit sonrası dosyalarımızı karşı tarafa yüklemek için ... işaretine basıp Push seçeneğini seçmeliyiz
 
 ### Projenin ilk cmd komutları
 - İlk komutlar kendimizi sisteme tanıtmak içindir.<br/>
