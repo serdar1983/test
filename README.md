@@ -5,7 +5,7 @@
 ### VsCode ile repo bağlantılarını demek için yapıldı.
 
 - Repo clonlamak: <br/>
- *git clone << repo adresi >>*
+ *git clone repo adresi *
 
 - Staged: "+" işaretine bastığımızda staged (sahneye alma) durumuna getirmeliyiz.cmd ile yaparsak:(git add README.md)<br/>
 VSCode üzerinde yapabilmek için ilgili dosya ismi üzerinde yer alan + işaretine basabilirsiniz veya birden fazla dosyanının durumunu staged’a getirmek için CHANGES yazan satırın yanındaki + işaretine basabilirsiniz.
