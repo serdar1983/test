@@ -1,3 +1,6 @@
 def deneme(ilkcommit, ilkDal):
-    pass
+  pass
 ## ilk dal yapılsın
+##Dal başarıyla oluşturuldu.
+## deneme dal 2 sonrası
+##Çakışma yaşandı Confilct
