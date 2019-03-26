@@ -5,4 +5,4 @@ def deneme(ilkcommit, ilkDal):
 ## deneme dal 2 sonrası
 ##Çakışma yaşandı Confilct
 ## Dal değişikliği öncesi pull rebase
-#geliştirici dal 1
+#geliştirici dal 1 V2
