@@ -6,3 +6,5 @@ def deneme(ilkcommit, ilkDal):
 ##Çakışma yaşandı Confilct
 ## Dal değişikliği öncesi pull rebase
 #geliştirici dal 1 V2
+#Dal 1A
+#geliştirici dal 1
