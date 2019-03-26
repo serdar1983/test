@@ -27,7 +27,7 @@ VSCode üzerinde yapabilmek için ilgili dosya ismi üzerinde yer alan + işaret
    - İşlem zamanlamasını tahlil edebilir,Özel bir dal üzerinde yapılan değişikliklere bakabilirsin.
    - Dosya değişiklerini geri silebilirsiniz.
    
-#Önemli Conflict
+### Önemli Conflict
 Git de proje geliştirirken repodan kodları snyc yaptınız ,birbaşkasının yazdığı kodlar sizin kodlarınız ile çakışıyor.Bu duruma Conflict(Fikir Ayrılığı) deniyor.VsC de hemen bu durum gözüküyor ve farklılıklar **HEAD**(Current Change) başlığı altında toplanıyor.
 
 <<<<<<< HEAD  
