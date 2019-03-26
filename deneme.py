@@ -7,3 +7,4 @@ def deneme(ilkcommit, ilkDal):
 ## Dal değişikliği öncesi pull rebase
 #Dal 1A
 #geliştirici dal 1
+#Master
