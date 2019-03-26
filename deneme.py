@@ -8,3 +8,4 @@ def deneme(ilkcommit, ilkDal):
 #geliştirici dal 1 V2
 #Dal 1A
 #geliştirici dal 1
+#Dal1A geri döndü
