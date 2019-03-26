@@ -1,6 +1,15 @@
 # Deneme
  `KOD`
 [Readme yazım klavuzu](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+[Git Kodları](http://rogerdudler.github.io/git-guide/index.tr.html)
+[Açık kaynak Kodlara Katkı Yapmak](https://medium.com/@cengizhanc/github-ile-a%C3%A7%C4%B1k-kaynak-projelere-katk%C4%B1da-bulunmak-8a0d79090546)
+[VsCode Sayfası](https://code.visualstudio.com/docs/editor/versioncontrol)
+
+### Projenin ilk cmd komutları
+- İlk komutlar kendimizi sisteme tanıtmak içindir.<br/>
+
+*git config --global user.name "talimgah" <br/>*
+*git config --global user.email eposta@adresiniz.com*
 
 ### VsCode ile repo bağlantılarını demek için yapıldı.
 
@@ -27,7 +36,14 @@ VSCode üzerinde yapabilmek için ilgili dosya ismi üzerinde yer alan + işaret
    - İşlem zamanlamasını tahlil edebilir,Özel bir dal üzerinde yapılan değişikliklere bakabilirsin.
    - Dosya değişiklerini geri silebilirsiniz.
    
+- **Merge** İki dalı birleştirmeye denir.Git history veya komut paletinden >git: merge branch komutu ile birleştirilebilir.
+- **Rebase** Tekrar Adresleme ; Halihazırda çalıştığınız branch'ı master üzerinden güncellemede kullanılır.
+  Merge+Yenidal(Eski isimde) şeklinde eski dala yeni adres vererek kodu merge yapar.
+
+- **İşlemi geri Alma** Reverse this commit seçeneğinden geri alınabilir.(git checkout -- <dosyaadı>)
+   
 ### Önemli Conflict
+[Nasıl Engellenir](https://medium.com/@aliustaoglu/git-cakismalarini-gidermenin-etkili-yollari-91b1160ce2e9)
 Git de proje geliştirirken repodan kodları snyc yaptınız ,birbaşkasının yazdığı kodlar sizin kodlarınız ile çakışıyor.Bu duruma Conflict(Fikir Ayrılığı) deniyor.VsC de hemen bu durum gözüküyor ve farklılıklar **HEAD**(Current Change) başlığı altında toplanıyor.
 
 <<<<<<< HEAD  
@@ -41,15 +57,16 @@ Head bölümü Üzerinde tıklanacak başlıklar şöyle:
 - Accept incoming Change(Gelen değişkeni kabul et)(Harici kodlar kalır) 
 - Accept Both Change(İkisini de kabuk et)(Her iki kodu da birleştirir(merge eder).)
 - Compare Change (Değişimi karışılaştır.)
-   
+
+**Dal Silme:**>Git: Delete Branch ile VsC dan github sayfasından da repodan silebilirsiniz.Komutlar ile yapacaksanız:
+$git branch
+$git branch -d dalismi
+
+
 - **Etiket:** git tag -a v1.4 -m 'sürümüm 1.4'
 - **Yardım:** git help komut_adi
 
-### Projenin ilk cmd komutları
-- İlk komutlar kendimizi sisteme tanıtmak içindir.<br/>
 
-*git config --global user.name "talimgah" <br/>*
-*git config --global user.email eposta@adresiniz.com*
   
 
  
