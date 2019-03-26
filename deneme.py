@@ -9,4 +9,4 @@ def deneme(ilkcommit, ilkDal):
 #Dal 1A
 #geliştirici dal 1
 #Dal1A geri döndü
-#rebase1
+#rebase1master
