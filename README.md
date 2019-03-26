@@ -27,6 +27,21 @@ VSCode üzerinde yapabilmek için ilgili dosya ismi üzerinde yer alan + işaret
    - İşlem zamanlamasını tahlil edebilir,Özel bir dal üzerinde yapılan değişikliklere bakabilirsin.
    - Dosya değişiklerini geri silebilirsiniz.
    
+#Önemli Conflict
+Git de proje geliştirirken repodan kodları snyc yaptınız ,birbaşkasının yazdığı kodlar sizin kodlarınız ile çakışıyor.Bu duruma Conflict(Fikir Ayrılığı) deniyor.VsC de hemen bu durum gözüküyor ve farklılıklar **HEAD**(Current Change) başlığı altında toplanıyor.
+
+<<<<<<< HEAD  
+Bu bölüm sizin yazdığınız farklı kodlar<br/>
+
+===========================<br/>
+Bu bölüm karşıdan size eklenecek olan kodların yazdığı bölüm
+
+Head bölümü Üzerinde tıklanacak başlıklar şöyle:
+- Accept Current Change(Mevcut değişkeni kabul et)(Sizin yazdığınız kodlar kalır)
+- Accept incoming Change(Gelen değişkeni kabul et)(Harici kodlar kalır) 
+- Accept Both Change(İkisini de kabuk et)(Her iki kodu da birleştirir(merge eder).)
+- Compare Change (Değişimi karışılaştır.)
+   
 - **Etiket:** git tag -a v1.4 -m 'sürümüm 1.4'
 - **Yardım:** git help komut_adi
 
